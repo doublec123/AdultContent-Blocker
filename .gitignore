@@ -1,0 +1,32 @@
+# Compiled Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Sensitive config
+config.json
+
+# Compiled executables
+*.exe
+*.msi
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.user
