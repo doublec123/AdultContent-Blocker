@@ -1,0 +1,12 @@
+{
+  "enabled": true,
+  "password_hash": "ac06f2da063dc36a5b38bc38a5fe23aff9d0084c710502db1fb2873de0b0d50e",
+  "custom_password_hash": "ac06f2da063dc36a5b38bc38a5fe23aff9d0084c710502db1fb2873de0b0d50e",
+  "whitelist": [],
+  "auto_start": true,
+  "monitor_titles": true,
+  "block_hosts": true,
+  "show_blocked_url": true,
+  "first_run": true,
+  "randomize_password": true
+}
